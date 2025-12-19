@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Ifti (Liquid)
+**Tech Enthusiast**
 
-I focus on **Android custom ROM device bring-up and builds**, and I also build **practical web applications**.
+I focus on **Android custom ROM device bring-up and builds**, and I also building ** web applications**.
 
 ---
 
@@ -10,7 +11,7 @@ I focus on **Android custom ROM device bring-up and builds**, and I also build *
 
 ---
 
-## 📚 LiqAI – AI Study Coach
+## 📚 LiqAI (WIP) [Link](https://studio--studio-3951075674-40672.us-central1.hosted.app/login)
 - Notes management for **questions and syllabus**
 - **Skill-tree based learning** for structured study
 - **AI chat** to explain topics and concepts

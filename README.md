@@ -52,7 +52,7 @@ The following ROMs have been **built and tested** for Realme 9 SE (ice):
 ---
 
 ## 🛠 Tech Stack
-- **Android**: AOSP, Soong, SELinux (bring-up level), HAL integration
+- **Android**: AOSP (bring-up level)
 - **Web**: Next.js, React, Tailwind CSS
 - **Backend**: Firebase Auth, Firestore, Cloud Functions
 - **Tools**: Git, Repo, Linux, Docker, Windows

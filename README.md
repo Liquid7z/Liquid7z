@@ -44,7 +44,7 @@ https://liquid7z.github.io/Liquid/
 
 ### Website Preview
 
-[![Website Preview](./preview.png)
+![Website Preview](./preview.png)
 
 Features:
 

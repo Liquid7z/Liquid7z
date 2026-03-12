@@ -1,20 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ifti%20(Liquid)&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:2c5364&text=Ifti%20(Liquid)&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Android%20ROM%20Developer%20•%20Web%20Animation%20Builder&descAlignY=65"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Android+Custom+ROM+Developer;AOSP+Device+Bring-up+Maintainer;Web+Animation+UI+Builder;Building+Cinematic+Web+Experiences"/>
+</p>
+
+---
 
 # 👋 Hi, I'm Ifti (Liquid)
 
 💻 **Android ROM Developer | Web Developer | UI Animation Builder**
 
-I specialize in **Android custom ROM device bring-up and build maintenance**.
-Alongside Android development, I build **modern web and cinematic UI animation assets**.
+I work on **Android custom ROM device bring-up and build maintenance** and also build **modern web applications and cinematic UI animation assets**.
 
 ---
 
 # 🚀 About Me
 
 * 📱 Android Custom ROM **Device Bring-up Maintainer**
-* 🌐 **Web Developer**
+* 🌐 **Web Application Developer**
 * 🎨 Building **Cinematic Web Animation Assets**
 * ⚙️ Focused on **AOSP device integration and build systems**
 
@@ -23,9 +28,10 @@ Alongside Android development, I build **modern web and cinematic UI animation a
 # 🔧 What I Do
 
 * Device bring-up for **AOSP-based custom ROMs**
-* Integrate devices into **ROM source**
-* Fix **build errors and configuration issues**
-* Build **modern UI animation components for websites**
+* Integrate devices into **existing ROM projects**
+* Fix **build errors and device configuration issues**
+* Maintain **device trees, vendor trees, and kernels**
+* Build **interactive UI components and animation assets**
 
 ---
 
@@ -34,15 +40,19 @@ Alongside Android development, I build **modern web and cinematic UI animation a
 ### Cinematic Web Animation Assets
 
 🔗 **Live Website**
-**Check this out**
 https://liquid7z.github.io/Liquid/
 
-Features of the project:
+### Website Preview
 
-* Cinematic **landing page animations**
-* **3D UI components**
-* Interactive **card effects**
-* Modern **portfolio-style web assets**
+[![Website Preview](./preview.png)
+
+Features:
+
+* Cinematic landing page animations
+* 3D card UI components
+* Interactive scroll animations
+* Modern portfolio-style web assets
+* Apple-inspired motion UI design
 
 ---
 
@@ -53,24 +63,38 @@ Qualcomm Snapdragon **SM8350**
 
 ---
 
-# 📦 ROMs Built
+# 📦 ROM Builds
 
-The following ROMs have been **built and tested** for **Realme 9 SE (ice)**:
+<p align="center">
+<a href="https://sourceforge.net/projects/rmx3461-ice/">
+<img src="https://sourceforge.net/sflogo.php?type=13&group_id=3885573" width="200">
+</a>
+</p>
 
-* **HorizonDroid**
-  https://sourceforge.net/projects/rmx3461-ice/files/HorizonDroid/
+<p align="center">
+<a href="https://sourceforge.net/projects/rmx3461-ice/">
+<img src="https://img.shields.io/sourceforge/dt/rmx3461-ice?style=for-the-badge&logo=sourceforge">
+</a>
+</p>
 
-* **Lunaris AOSP**
-  https://sourceforge.net/projects/rmx3461-ice/files/Lunaris-AOSP/
+The following ROMs have been **built and tested** for **Realme 9 SE (ice)**.
 
-* **VoltageOS**
-  https://sourceforge.net/projects/rmx3461-ice/files/Voltage5.2/
+### Custom ROM Builds
 
-* **AlphaDroid**
-  https://sourceforge.net/projects/rmx3461-ice/files/AlphaDroid/
+**HorizonDroid**
+https://sourceforge.net/projects/rmx3461-ice/files/HorizonDroid/
 
-* **DerpFest**
-  https://sourceforge.net/projects/rmx3461-ice/files/DerpFest/
+**Lunaris AOSP**
+https://sourceforge.net/projects/rmx3461-ice/files/Lunaris-AOSP/
+
+**VoltageOS**
+https://sourceforge.net/projects/rmx3461-ice/files/Voltage5.2/
+
+**AlphaDroid**
+https://sourceforge.net/projects/rmx3461-ice/files/AlphaDroid/
+
+**DerpFest**
+https://sourceforge.net/projects/rmx3461-ice/files/DerpFest/
 
 ### RisingOS Revived
 
@@ -80,11 +104,11 @@ https://sourceforge.net/projects/rmx3461-ice/files/RisingRevived/
 Build 2
 https://sourceforge.net/projects/rmx3461-ice/files/RisingOSREvivedv8/
 
-All Builds
+📁 **All Builds**
 https://sourceforge.net/projects/rmx3461-ice/files/
 
-> ROM sources and features belong to their respective projects.
-> My work focuses on **device bring-up, configuration, and build maintenance**.
+> ROM sources belong to their respective projects.
+> My role focuses on **device bring-up and build maintenance**.
 
 ---
 
@@ -92,21 +116,23 @@ https://sourceforge.net/projects/rmx3461-ice/files/
 
 ### Android Development
 
-![AOSP](https://img.shields.io/badge/AOSP-Android-green)
-![Linux](https://img.shields.io/badge/Linux-System-blue)
-![Kernel](https://img.shields.io/badge/Kernel-Development-red)
+* AOSP
+* Device Bring-up
+* Kernel Integration
+* Vendor / Device Trees
 
 ### Web Development
 
-![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss)
-![Ionic](https://img.shields.io/badge/Ionic-React-blue?logo=ionic)
+* Next.js
+* React
+* Tailwind CSS
+* Ionic + React
 
 ### Backend
 
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![Firestore](https://img.shields.io/badge/Firestore-yellow)
+* Firebase Auth
+* Firestore
+* Cloud Functions
 
 ### Tools
 
@@ -116,7 +142,7 @@ Git • Repo • Linux • Docker • Windows
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquid7z\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liquid7z\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liquid7z\&layout=compact\&theme=tokyonight)
 
@@ -128,10 +154,28 @@ Git • Repo • Linux • Docker • Windows
 
 ---
 
-# 📫 Connect
 
-GitHub: https://github.com/Liquid7z
+## 📫 Connect
 
+[![Telegram](https://img.shields.io/badge/Telegram-%40liquid7z-26A5E4?style=for-the-badge\&logo=telegram)](https://t.me/liquid7z)
+<a href="https://t.me/liquid7z">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="28" height="28"/>
+</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Liquid7z-181717?style=for-the-badge\&logo=github)](https://github.com/Liquid7z)
+<a href="https://github.com/Liquid7z">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28" height="28"/>
+</a>
+
+[![Website](https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge\&logo=google-chrome)](https://liquid7z.github.io/Liquid/)
+<a href="https://liquid7z.github.io/Liquid/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="28" height="28"/>
+</a>
+
+[![SourceForge](https://img.shields.io/badge/SourceForge-ROM%20Builds-orange?style=for-the-badge\&logo=sourceforge)](https://sourceforge.net/projects/rmx3461-ice/)
+<a href="https://sourceforge.net/projects/rmx3461-ice/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sourceforge.svg" width="28" height="28"/>
+</a>
 ---
 
 ⭐ **Building Android systems and cinematic web interfaces.**

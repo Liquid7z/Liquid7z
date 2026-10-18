@@ -230,11 +230,6 @@ On the web side, I enjoy building **modern interfaces, interactive experiences, 
 </a>
 
 </div>
-
----
-
-## 10 / CURRENT FOCUS
-
 ---
 
 <div align="center">

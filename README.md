@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Telegram-@liquid7z-0f172a?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
 </a>
 
-<a href="https://liquid7z.github.io/Liquid/">
+<a href="http://liquidspace.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Liquid-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
 </a>
 
